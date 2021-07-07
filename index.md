@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 <a href="/习题课/Preparation.pdf" target="_blank">第一次作业答案</a>
-<a href="{{ site.baseurl }}/习题课/Preparation.pdf" target="_blank">第一次作业答案</a>
+<a href="{{ site.baseurl }}/Preparation.pdf" target="_blank">第一次作业答案</a>
+
+[GitHub Flavored Markdown]({{ site.baseurl }}/习题课/Preparation.pdf).
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
