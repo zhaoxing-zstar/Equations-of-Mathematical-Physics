@@ -1,41 +1,34 @@
-## Welcome to GitHub Pages
+## 课程信息
+* 教师：张永兵 ybzhang@amss.ac.cn
+* 上课教室： 2421 ， 3（6，7)，5（6，7）
+* TA：赵星 胡智皓
+* 教材： 《数学物理方程》第二版 季孝达等编著 科学出版社
+* 参考教材：  
+  《数学物理方法》【德】顾樵（Qiao GU）编著 科学出版社  
+             《数学物理方法》第三版 吴崇试等编著 北京大学出版社
+           
+## Homework
+| 作业答案 | |
+|---|---|
+| <a href="{{ site.baseurl }}/作业/hw1_solution.pdf" target="_blank">Homework 1 solutions</a>| <a href="{{ site.baseurl }}/作业/hw2_solution.pdf" target="_blank">Homework 2 solutions</a>|
+| <a href="{{ site.baseurl }}/作业/hw3_solution.pdf" target="_blank">Homework 3 solutions</a>| <a href="{{ site.baseurl }}/作业/hw4_solution.pdf" target="_blank">Homework 4 solutions</a>|
+| <a href="{{ site.baseurl }}/作业/hw5_solution.pdf" target="_blank">Homework 5 solutions</a>| <a href="{{ site.baseurl }}/作业/hw6_solution.pdf" target="_blank">Homework 6 solutions</a>|
+| <a href="{{ site.baseurl }}/作业/hw7_solution.pdf" target="_blank">Homework 7 solutions</a>| <a href="{{ site.baseurl }}/作业/hw8_solution.pdf" target="_blank">Homework 8 solutions</a>|
+| <a href="{{ site.baseurl }}/作业/hw9_solution.pdf" target="_blank">Homework 9 solutions</a>| <a href="{{ site.baseurl }}/作业/hw10_solution.pdf" target="_blank">Homework 10 solutions</a>|
+| <a href="{{ site.baseurl }}/作业/hw11_solution.pdf" target="_blank">Homework 11 solutions</a>| <a href="{{ site.baseurl }}/作业/hw12_solution.pdf" target="_blank">Homework 12 solutions</a>|
 
-You can use the [editor on GitHub](https://github.com/zhaoxing-zstar/MMP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 习题课
+<a href="{{ site.baseurl }}/习题课/Preparation.pdf" target="_blank">第一次习题课讲义</a>  
+<a href="{{ site.baseurl }}/习题课/第二次习题课.pdf" target="_blank">第二次习题课讲义</a>  
+<a href="{{ site.baseurl }}/习题课/第三次习题课.pdf" target="_blank">第三次习题课讲义</a>  
+<a href="{{ site.baseurl }}/习题课/数理方程 总结.pdf" target="_blank">第四次习题课讲义</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Exam
+#### 考试信息
+2021年7月4日 3C301 & 3C302 8：30-10：30
+#### 往年试题
 
-### Markdown
+#### 成绩
 
-<a href="/习题课/Preparation.pdf" target="_blank">第一次作业答案</a>
-<a href="{{ site.baseurl }}/习题课/Preparation.pdf" target="_blank">第一次作业答案</a>
-
-[GitHub Flavored Markdown]({{ site.baseurl }}/习题课/Preparation.pdf).
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoxing-zstar/MMP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+<center>本页面所有内容未经允许不得用于任何商业用途</center>
