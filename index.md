@@ -9,9 +9,10 @@
            
 ## Homework
 
-<table border="1">
+<table>
     <tr>
         <td>作业答案</td>
+      <td> </td>
     </tr>
     <tr>
         <td><a href="{{ site.baseurl }}/作业/hw1_solution.pdf" target="_blank">Homework 1 solutions</a></td>
@@ -53,6 +54,7 @@
 <a href="{{ site.baseurl }}/test/2020.jpg" target="_blank">2020春</a>  
 <a href="{{ site.baseurl }}/test/2015春季学期数理方程期末卷.pdf" target="_blank">2015春</a>
 #### 成绩
-<img src="{{ site.baseurl }}/test/grade.png" width="50%">
+<img src="{{ site.baseurl }}/test/grade.png" width="70%" align="center">
+                                                                
 ---
 <center>本页面所有内容未经允许不得用于任何商业用途</center>
