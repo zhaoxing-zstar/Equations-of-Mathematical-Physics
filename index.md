@@ -11,6 +11,7 @@
 
 ## Homework
 
+<div align="center">
 <table>
     <tr>
         <td>作业答案</td>
@@ -41,13 +42,17 @@
         <td><a href="{{ site.baseurl }}/作业/hw12_solution.pdf" target="_blank">Homework 12 solutions</a></td>
     </tr>
 </table>
+</div>
 
 ## 习题课
+
+<div align="center">
 <a href="{{ site.baseurl }}/习题课/Preparation.pdf" target="_blank">第一次习题课讲义</a>  
 <a href="{{ site.baseurl }}/习题课/第二次习题课.pdf" target="_blank">第二次习题课讲义</a>  
 <a href="{{ site.baseurl }}/习题课/第三次习题课.pdf" target="_blank">第三次习题课讲义</a>  
 <a href="{{ site.baseurl }}/习题课/数理方程 总结.pdf" target="_blank">第四次习题课讲义</a>
-
+</div>
+  
 ## Exam
 #### 考试信息
 2021年7月4日 3C301 & 3C302 8：30-10：30
