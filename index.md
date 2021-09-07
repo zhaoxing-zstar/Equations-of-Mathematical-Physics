@@ -51,7 +51,7 @@
   
 <a href="{{ site.baseurl }}/习题课/第二次习题课.pdf" target="_blank">第二次习题课讲义</a>   
   
-<a href="{{ site.baseurl }}/习题课/第三次习题课.pdf" target="_blank">第三次习题课讲义</a>    
+<a href="{{ site.baseurl }}/习题课/第三次习题课.pdf" target="_blank">第三次习题课讲义</a>  
   
 <a href="{{ site.baseurl }}/习题课/数理方程 总结.pdf" target="_blank">第四次习题课讲义</a>  
   
