@@ -1,5 +1,5 @@
 ## 课程信息
-<div align="center">
+
 * 教师：张永兵 ybzhang@amss.ac.cn
 * 上课教室： 2421 ， 3（6，7)，5（6，7）
 * TA：赵星 胡智皓
@@ -7,7 +7,6 @@
 * 参考教材：  
   《数学物理方法》【德】顾樵（Qiao GU）编著 科学出版社  
              《数学物理方法》第三版 吴崇试等编著 北京大学出版社
-</div>
 
 ## Homework
 
@@ -46,13 +45,12 @@
 
 ## 习题课
 
-<div align="center">
+
 <a href="{{ site.baseurl }}/习题课/Preparation.pdf" target="_blank">第一次习题课讲义</a>  
-  
 <a href="{{ site.baseurl }}/习题课/第二次习题课.pdf" target="_blank">第二次习题课讲义</a>   
 <a href="{{ site.baseurl }}/习题课/第三次习题课.pdf" target="_blank">第三次习题课讲义</a>  
 <a href="{{ site.baseurl }}/习题课/数理方程 总结.pdf" target="_blank">第四次习题课讲义</a>  
-</div>
+
   
 ## Exam
 #### 考试信息
